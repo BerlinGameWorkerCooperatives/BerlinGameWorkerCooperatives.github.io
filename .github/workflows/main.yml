@@ -32,6 +32,7 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: BerlinGameWorkerCooperatives/BerlinGameWorkerCooperatives.github.io
+          branch: deploy
           publish_dir: ./public
           #   keep_files: true
           user_name: BerlinGameWorkerCooperatives
