@@ -37,5 +37,5 @@ jobs:
           #   keep_files: true
           user_name: BerlinGameWorkerCooperatives
           user_email: info@gwc.berlin
-          publish_branch: main
+          publish_branch: public
         #   cname: example.com
