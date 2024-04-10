@@ -20,7 +20,7 @@ jobs:
       - name: Get theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         # run: git submodule update --init --recursive
-        run: hugo mod get -u
+        run: hugo mod get -u # for module workflow
 
       - name: Build
         # remove --minify tag if you do not need it
