@@ -31,11 +31,9 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          #external_repository: BerlinGameWorkerCooperatives/BerlinGameWorkerCooperatives.github.io
-          #branch: deploy
           publish_dir: ./public
           #   keep_files: true
           user_name: BerlinGameWorkerCooperatives
           user_email: info@gwc.berlin
-          publish_branch: public
+          publish_branch: public #important!
         #   cname: example.com
