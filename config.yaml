@@ -35,7 +35,7 @@ Params:
   # Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
   mdTagline: "## democratize your workplace{cursor}"
   theme: "hugo-mods"
-  favicon: "logo.png"
+  favicon: "favicon.png"
 
   opengraphImage: "background.jpg"
 
