@@ -51,8 +51,8 @@ Params:
   Social:
   - type: github
     url: "https://github.com/BerlinGameWorkerCooperatives/BerlinGameWorkerCooperatives.github.io"
-  - type: heart
-    url: ""
+  - type: discord
+    url: "https://discord.gg/4XYxuJzSXn "
 
 ## Theme features:
   Feat:

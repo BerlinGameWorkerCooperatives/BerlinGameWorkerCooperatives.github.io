@@ -11,3 +11,6 @@ example:
 learn:
   id: fas graduation-cap
   description: Learn more
+discord:
+  id: fas discord
+  description: Discord
