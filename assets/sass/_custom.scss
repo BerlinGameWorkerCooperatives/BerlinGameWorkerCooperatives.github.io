@@ -41,3 +41,25 @@
 .studios{
   color: $primary-bg-color;
 }
+
+._h2{
+  font-size: 2.221rem;
+}
+
+.justify{
+  text-align: justify !important;
+}
+
+summary {list-style: none}
+summary::-webkit-details-marker {display: none; }
+details summary::before { 
+  content:"+ "; 
+  color: $secondary-fg-color; 
+  font-size: 2.221rem;
+}
+
+details[open] summary::before { 
+  content:"- "; 
+  color: $secondary-fg-color; 
+  font-size: 2.221rem;
+}
