@@ -36,4 +36,4 @@ jobs:
           user_name: BerlinGameWorkerCooperatives
           user_email: info@gwc.berlin
           publish_branch: public #important!
-        #   cname: example.com
+          cname: gwc.berlin
