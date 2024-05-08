@@ -10,7 +10,7 @@ faq:
       a: "A Genossenschaft is a legal entity and type of cooperative enterprise common in Germany and German-speaking countries. It's owned and controlled democratically by its members, who each have an equal vote in decision-making."
     - q: "How are decisions made in a game development cooperative?"
       a: "Decisions in a game development cooperative are typically made through a democratic process. Members may vote on important matters such as project direction, hiring decisions, budget allocation, and profit distribution. This democratic structure ensures that interests and perspectives of all workers are heard and considered, leading to more inclusive and collaborative decision-making."
-    - q: "I want to found a new cooperative studio. How do I start?"
+    - q: "I want to found a new cooperative studio. How do I get started?"
       a: "Starting a new company is no small feat. If you want to learn more about the steps required to start a coop join the BGWC community where people who have gone through the process will be able to answer most questions."
 ---
 
