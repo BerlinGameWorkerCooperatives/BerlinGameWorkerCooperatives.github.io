@@ -5,17 +5,17 @@ draft: false
 description: "Coops in BGWC"
 ---
 
-## Randwerk
+## [Randwerk](https://www.randwerk.com/)
 The first Berlin Games Coop (that we know of).
 
-## Purple Sloth Studio
+## [Purple Sloth Studio](https://purplesloth.studio/)
 The second Berlin Games Coop (that we know of).
 
-## Deep Skyy Games
+## [Deep Sky](https://www.deepskygames.com/)
 The third Berlin Games Coop (that we know of).
 
-## rooster games coop
-Game dev coop from the Neatherlands.
+## [Roost Games](https://roost.games/)
+Game dev coop from the Netherlands.
 
-## stalgrad
-Game dev coop from the Neatherlands.
+## Stalgard
+Game dev coop from the Netherlands.

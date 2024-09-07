@@ -52,7 +52,7 @@ Params:
   - type: github
     url: "https://github.com/BerlinGameWorkerCooperatives/BerlinGameWorkerCooperatives.github.io"
   - type: discord
-    url: "https://discord.gg/4XYxuJzSXn "
+    url: "https://discord.gg/4XYxuJzSXn"
 
 ## Theme features:
   Feat:
@@ -77,6 +77,7 @@ Params:
   Image:
     Logo:
       resize: "1200x"
+      url: "https://discord.gg/4XYxuJzSXn"
 
     Gallery:
       resize: "600x"
